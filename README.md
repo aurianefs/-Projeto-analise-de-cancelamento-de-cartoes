@@ -28,4 +28,8 @@ Investigar os principais fatores que levam clientes a cancelarem seus cartões e
 - Como aplicar técnicas de visualização e classificação.
 - Importância do balanceamento de classes para problemas de churn.
 
+## ▶️ Como Executar
 
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/aurianefs/Analise_cancelamento_cartao.git
